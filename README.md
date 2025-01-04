@@ -9,21 +9,8 @@ Deep Learning: Deep neural networks, convolutional neural networks (CNNs), recur
 
 Key Projects:
 
-[Project 1 Name]: [Brief description of project 1, e.g., "Predicting customer churn using a logistic regression model."]
-[Link to project 1 folder/branch]
-[Project 2 Name]: [Brief description of project 2, e.g., "Building a recommendation system using collaborative filtering."]
-[Link to project 2 folder/branch]
-[Project 3 Name]: [Brief description of project 3, e.g., "Image classification with a convolutional neural network."]
-[Link to project 3 folder/branch]
-Code Snippets:
+Coming soon
 
-[Folder Name]: [e.g., "Code Snippets"]
-Contains reusable code blocks and functions for common data science tasks, such as data loading, preprocessing, and visualization.
-Learning Resources:
-
-[Folder Name]: [e.g., "Learning Resources"]
-Includes links to valuable articles, tutorials, and online courses that have contributed to my learning journey.
-Contributing:
 
 While this repository primarily focuses on showcasing my work, contributions are welcome. Feel free to fork the repository, experiment with the code, and share your own insights.
 
