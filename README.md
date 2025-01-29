@@ -12,7 +12,8 @@ Deep Learning: Deep neural networks, convolutional neural networks (CNNs), recur
 Coming Soon
 
 ### Basic Projects:
-  Linear Regression \n 
+  Linear Regression
+  
   Logistic Regresstion
 
 
